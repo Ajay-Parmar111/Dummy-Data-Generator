@@ -1,2 +1,2 @@
 # Dummy-Data-Generator
-Create dummy data generator express app using express, mongoose.
+Create dummy data generator express app using express, mongoose, ejs, node js.
